@@ -1,6 +1,7 @@
 body
 {
 	background: url('bg.jpg') no-repeat;
+	background-color: #000;
 	background-size: 100%;
 	color: #eee;
 	padding: 0;
@@ -8,7 +9,7 @@ body
 	font-size: 100%;
 }
 
-#header 
+#header
 {
 	padding: 0 0 0 10px;
 			color: #2F4F4F;
@@ -30,7 +31,7 @@ body
 	width: 100%;
 }
 
-h1 
+h1
 {
 	font-size: 120%;
 	color: #fff;
@@ -47,7 +48,7 @@ strong
 	color: #CCC;
 }
 
-#panel 
+#panel
 {
 	opacity:0.9;
 	filter:alpha(opacity=90)
@@ -64,8 +65,8 @@ strong
 #panel table {
 	margin: 0;
 	padding: 0;
-	text-align:left; 
-	width: 100%; 
+	text-align:left;
+	width: 100%;
 	border-top: 2px dashed #666
 }
 
@@ -77,8 +78,8 @@ strong
 	vertical-align: top;
 	padding-top: 1em;
 	padding-right: 1em;
-	
-	
+
+
 }
 
 p.small {
