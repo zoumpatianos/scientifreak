@@ -1,3 +1,7 @@
+html {
+	background-color: #000;
+}
+
 body
 {
 	background: #000000 url('bg.jpg') no-repeat;
